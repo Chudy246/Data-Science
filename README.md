@@ -1,2 +1,2 @@
 # Data-Science-Articles
-Repository to organise articles
+Repository to organise articles, post notes and projects.
